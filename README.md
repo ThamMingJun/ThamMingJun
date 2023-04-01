@@ -1,4 +1,4 @@
-### Hi there 👋:bowtie:
+### Hi there 👋
 
 My name is MingJun. You can call me MJ. 
 
@@ -9,8 +9,9 @@ My name is MingJun. You can call me MJ.
 - 🤔 I’m looking for help with any Web App or Python projects
 - 💬 Ask me about Cloud, Web, Python
 - 📫 How to reach me: 1221403977@student.mmu.edu.my
-- ⚡ Fun fact: I am a Psychology graduates
 
+Thank you for landing my page.
+:bowtie:
 <!--**ThamMingJun/ThamMingJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
